@@ -13,7 +13,7 @@ The INVENTORY TRACKER is a Python program that helps manage stock inventory of a
 # Installation
 To install and use the INVENTORY TRACKER program, follow these steps:
 1.	Clone the project repository from GitHub to your local machine:
-    https://github.com/your-username/inventory-tracker.git 
+    https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 2.	Install Python 3.x on your local machine if it is not already installed.
     https://www.python.org/downloads/ 
 3.	Run the program by navigating to the cloned repository's directory and executing the following command:
